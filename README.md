@@ -16,8 +16,8 @@
 - ReactJS;
 - Single-Page Application;
 - Rotas;
-- Axios (consumo de dados de API).
-- Redux
-- Redux Saga 
-- Reactotron
-- Toastify
+- Axios (consumo de dados de API);
+- Redux;
+- Redux Saga; 
+- Reactotron;
+- Toastify;
